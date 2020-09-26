@@ -6,7 +6,7 @@ license 'GPL-3.0'
 supports 'debian', '>= 10'
 source_url 'https://gitlab.com/olyn/olyn_sudo'
 description 'Installs and configures sudo'
-version '1.0.1'
+version '1.0.2'
 
 provides 'olyn_sudo::default'
 recipe 'olyn_sudo::default', 'Installs and configures sudo'
